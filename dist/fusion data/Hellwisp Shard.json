@@ -14279,16 +14279,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Kraken Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_KRAKEN",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Taurus Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_TAURUS",
@@ -14459,16 +14449,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Daemon Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DAEMON",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Moltenfish Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MOLTENFISH",
@@ -14605,16 +14585,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Doomspiral Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_DOOMSPIRAL",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     }
   ]

@@ -9147,39 +9147,6 @@
       "left_name": "Bullfrog Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_BULLFROG",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Fenlord Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bullfrog Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_BULLFROG",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Cascade Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bullfrog Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_BULLFROG",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bullfrog Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_BULLFROG",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -9888,16 +9855,6 @@
     },
     {
       "fusion_type": "Special",
-      "left_name": "Tadgang Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TADGANG",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
       "left_name": "Mossybit Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_MOSSYBIT",
@@ -10504,16 +10461,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Mossybit Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_MOSSYBIT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {
@@ -11128,16 +11075,6 @@
     },
     {
       "fusion_type": "Special",
-      "left_name": "Lotum Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_LOTUM",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
       "left_name": "Rana Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_RANA",
@@ -11744,16 +11681,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Rana Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_RANA",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {
@@ -12368,16 +12295,6 @@
     },
     {
       "fusion_type": "Special",
-      "left_name": "Treefrog Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TREEFROG",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
       "left_name": "Dustybit Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_DUSTYBIT",
@@ -12984,16 +12901,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Dustybit Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DUSTYBIT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {
@@ -13618,16 +13525,6 @@
     },
     {
       "fusion_type": "Special",
-      "left_name": "Toad Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TOAD",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
       "left_name": "Beaconmite Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BEACONMITE",
@@ -14084,16 +13981,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Fenlord Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_FENLORD",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     }
   ]

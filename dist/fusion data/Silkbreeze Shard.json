@@ -8707,28 +8707,6 @@
       "left_name": "Silkbreeze Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SILKBREEZE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Cryo Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Silkbreeze Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SILKBREEZE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Giant Isopod Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Silkbreeze Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SILKBREEZE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -15667,16 +15645,6 @@
       "left_name": "Shellwise Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_SHELLWISE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Shellwise Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SHELLWISE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -16177,16 +16145,6 @@
       "left_name": "Sea Serpent Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_SEA_SERPENT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Sea Serpent Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SEA_SERPENT",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -16610,16 +16568,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Leatherback Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_LEATHERBACK",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

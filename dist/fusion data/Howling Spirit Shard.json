@@ -9774,39 +9774,6 @@
       "left_name": "Howling Spirit Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HOWLING_SPIRIT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Flash Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Howling Spirit Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HOWLING_SPIRIT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Fungloom Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Howling Spirit Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HOWLING_SPIRIT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Lapis Zombie Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Howling Spirit Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HOWLING_SPIRIT",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11878,16 +11845,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Flash Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_FLASH",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

@@ -8586,28 +8586,6 @@
       "left_name": "Minos Hunter Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MINOS_HUNTER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Quake Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Minos Hunter Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MINOS_HUNTER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Parched Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Minos Hunter Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MINOS_HUNTER",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -15580,16 +15558,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Zealot Bruiser Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BRUISER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Stridersurfer Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_STRIDER_SURFER",
@@ -17930,16 +17898,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Polaris Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_POLARIS",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Treefrog Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_TREEFROG",
@@ -19260,16 +19218,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Areita Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_AREITA",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Osedax Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_OSEDAX",
@@ -20520,16 +20468,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Duplico Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DUPLICO",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Litterbug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_LITTERBUG",
@@ -21760,16 +21698,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Gazer Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GAZER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Honeybug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HONEYBUG",
@@ -22956,16 +22884,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Honey Badger Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HONEY_BADGER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

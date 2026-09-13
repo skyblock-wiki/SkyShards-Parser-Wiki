@@ -10489,39 +10489,6 @@
       "left_name": "Condor Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_CONDOR",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Dodo Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Condor Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CONDOR",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Toucan Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Condor Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CONDOR",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Falcon Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Condor Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CONDOR",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11033,16 +11000,6 @@
       "left_name": "Crow Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_CROW",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Crow Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CROW",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11483,16 +11440,6 @@
       "left_name": "Harpy Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HARPY",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Harpy Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HARPY",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11933,16 +11880,6 @@
       "left_name": "Boreal Owl Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BOREAL_OWL",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Boreal Owl Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BOREAL_OWL",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -12383,16 +12320,6 @@
       "left_name": "Blue Jay Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BLUE_JAY",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Blue Jay Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BLUE_JAY",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -12833,16 +12760,6 @@
       "left_name": "Sparrow Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SPARROW",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Sparrow Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SPARROW",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -13283,16 +13200,6 @@
       "left_name": "Heron Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HERON",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Heron Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HERON",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -13733,16 +13640,6 @@
       "left_name": "Seagull Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SEAGULL",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Seagull Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SEAGULL",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -14183,16 +14080,6 @@
       "left_name": "Kiwi Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_KIWI",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Kiwi Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_KIWI",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -14633,16 +14520,6 @@
       "left_name": "Bluebird Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BLUEBIRD",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bluebird Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BLUEBIRD",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -15083,16 +14960,6 @@
       "left_name": "Woodpecker Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WOODPECKER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Woodpecker Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WOODPECKER",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -15533,16 +15400,6 @@
       "left_name": "Hawk Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HAWK",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hawk Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HAWK",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -15983,16 +15840,6 @@
       "left_name": "Vulture Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_VULTURE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Vulture Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_VULTURE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -16433,16 +16280,6 @@
       "left_name": "Hummingbird Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HUMMINGBIRD",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hummingbird Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HUMMINGBIRD",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -16876,16 +16713,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Falcon Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_FALCON",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {
@@ -17333,16 +17160,6 @@
       "left_name": "Parakeet Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_PARAKEET",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Parakeet Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PARAKEET",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -17776,16 +17593,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Toucan Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TOUCAN",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {
@@ -18616,16 +18423,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Macaw Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MACAW",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {
@@ -18886,16 +18683,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Ananke Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ANANKE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {
@@ -19126,16 +18913,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Dodo Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DODO",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {

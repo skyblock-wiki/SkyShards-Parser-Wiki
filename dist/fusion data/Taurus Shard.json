@@ -8916,17 +8916,6 @@
       "left_name": "Taurus Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_TAURUS",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Lord Jawbus Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Taurus Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TAURUS",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11665,16 +11654,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Spike Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SPIKE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

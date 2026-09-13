@@ -9196,17 +9196,6 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Hellwisp Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Kraken Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_KRAKEN",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Hellwisp Shard",
-      "output_count": 1
     }
   ],
   "output_recipes": [
@@ -14492,16 +14481,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "End Stone Protector Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Rabbit Godfather Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RABBIT_GODFATHER",
@@ -14688,16 +14667,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Lapis Creeper Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LAPIS_CREEPER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     }
   ]

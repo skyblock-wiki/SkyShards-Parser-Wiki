@@ -8674,28 +8674,6 @@
       "left_name": "Haggard Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HAGGARD",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Mist Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Haggard Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HAGGARD",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Brineling Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Haggard Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HAGGARD",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11754,16 +11732,6 @@
       "left_name": "Inkling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_NIGHT_SQUID",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Inkling Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_NIGHT_SQUID",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -13614,16 +13582,6 @@
       "left_name": "Newt Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_NEWT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Newt Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_NEWT",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -15424,16 +15382,6 @@
       "left_name": "Tepid Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_TEPID",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tepid Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TEPID",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -16227,16 +16175,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Cavernfish Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CAVERNFISH",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

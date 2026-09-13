@@ -8553,17 +8553,6 @@
       "left_name": "Rabbit Neighbor Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Sylvan Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Rabbit Neighbor Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RABBIT_NEIGHBOR",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",

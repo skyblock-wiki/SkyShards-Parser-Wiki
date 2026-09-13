@@ -8608,39 +8608,6 @@
       "left_name": "Silentdepth Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SILENTDEPTH",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Cascade Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Silentdepth Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SILENTDEPTH",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Earthworm Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Silentdepth Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SILENTDEPTH",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Seashine Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Silentdepth Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SILENTDEPTH",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11092,16 +11059,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Lava Leech Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LAVA_LEECH",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

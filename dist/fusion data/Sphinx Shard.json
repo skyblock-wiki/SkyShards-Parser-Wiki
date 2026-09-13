@@ -8784,28 +8784,6 @@
       "left_name": "Sphinx Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SPHINX",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Aero Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Sphinx Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SPHINX",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "King Minos Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Sphinx Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SPHINX",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -13274,16 +13252,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ghost Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GHOST",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

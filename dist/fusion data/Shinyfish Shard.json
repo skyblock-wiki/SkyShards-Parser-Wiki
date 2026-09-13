@@ -8960,17 +8960,6 @@
       "left_name": "Shinyfish Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHINYFISH",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Lord Jawbus Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Shinyfish Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SHINYFISH",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",

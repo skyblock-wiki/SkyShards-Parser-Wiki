@@ -37,6 +37,10 @@ output_recipes = defaultdict(list)
 for input_combo, results in data['recipes'].items():
     inputs = input_combo.split('+') # 'C1+C2' --> ['C1', 'C2']
 
+    # skip recipes using Rainbug Shard
+    if (inputs[0] == "L49" or inputs[1] == "L49"):
+        continue
+
     left_shard = shards['shards'][inputs[0]]
     right_shard = shards['shards'][inputs[1]]
 

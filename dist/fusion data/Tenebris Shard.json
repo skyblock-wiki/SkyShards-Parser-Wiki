@@ -9444,16 +9444,6 @@
     },
     {
       "fusion_type": "Special",
-      "left_name": "Terra Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TERRA",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
       "left_name": "Cryo Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CRYO",
@@ -9554,16 +9544,6 @@
     },
     {
       "fusion_type": "Special",
-      "left_name": "Cryo Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CRYO",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
       "left_name": "Aero Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_AERO",
@@ -9660,16 +9640,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Aero Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_AERO",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {
@@ -9954,16 +9924,6 @@
     },
     {
       "fusion_type": "Special",
-      "left_name": "Blizzard Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_BLIZZARD",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
       "left_name": "Tempest Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_TEMPEST",
@@ -10064,16 +10024,6 @@
     },
     {
       "fusion_type": "Special",
-      "left_name": "Tempest Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TEMPEST",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
       "left_name": "Wyvern Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_WYVERN",
@@ -10204,16 +10154,6 @@
     },
     {
       "fusion_type": "Special",
-      "left_name": "Doomspiral Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_DOOMSPIRAL",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
       "left_name": "Macaw Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MACAW",
@@ -10280,16 +10220,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Starborn Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_STARBORN",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     }
   ]

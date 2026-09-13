@@ -8465,28 +8465,6 @@
       "left_name": "Osedax Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_OSEDAX",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Tide Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Osedax Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_OSEDAX",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Water Snake Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Osedax Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_OSEDAX",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",

@@ -8586,28 +8586,6 @@
       "left_name": "Rain Slime Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RAIN_SLIME",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Quake Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rain Slime Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RAIN_SLIME",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Seer Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Rain Slime Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RAIN_SLIME",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11790,16 +11768,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Quake Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_QUAKE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Goldfin Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GOLDFIN",
@@ -14406,16 +14374,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Cuboa Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CUBOA",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

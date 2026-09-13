@@ -8531,28 +8531,6 @@
       "left_name": "Draconic Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_DRACONIC",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Bolt Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Draconic Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DRACONIC",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Wither Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Draconic Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DRACONIC",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -13915,16 +13893,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Crocodile Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CROCODILE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Wild Hog Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WILD_HOG",
@@ -15351,16 +15319,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "King Cobra Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_KING_COBRA",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

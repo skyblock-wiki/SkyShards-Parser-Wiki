@@ -8943,17 +8943,6 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "End Stone Protector Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tiamat Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TIAMAT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "End Stone Protector Shard",
-      "output_count": 1
     }
   ],
   "output_recipes": [

@@ -6111,17 +6111,6 @@
       "left_name": "Mountain Goat Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Terra Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Mountain Goat Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MOUNTAIN_GOAT",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",

@@ -6287,17 +6287,6 @@
       "left_name": "Chocobun Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_CHOCOBUN",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Grove Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Chocobun Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_CHOCOBUN",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",

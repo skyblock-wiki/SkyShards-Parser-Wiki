@@ -8443,28 +8443,6 @@
       "left_name": "Thunder Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_THUNDER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Cascade Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Thunder Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THUNDER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Stingray Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Thunder Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_THUNDER",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -14303,16 +14281,6 @@
       "left_name": "Inferno Koi Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_INFERNO_KOI",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Inferno Koi Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_INFERNO_KOI",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -15173,16 +15141,6 @@
       "left_name": "Wiki Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WIKI_TIKI",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Wiki Tiki Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_WIKI_TIKI",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -15946,16 +15904,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Maggot Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MAGGOT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

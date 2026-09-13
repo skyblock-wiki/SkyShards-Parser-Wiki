@@ -8531,28 +8531,6 @@
       "left_name": "Glacite Walker Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GLACITE_WALKER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Bolt Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Glacite Walker Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GLACITE_WALKER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Drowned Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Glacite Walker Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GLACITE_WALKER",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10881,16 +10859,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Bolt Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_BOLT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

@@ -9609,39 +9609,6 @@
       "left_name": "Stoneworm Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_STONEWORM",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Bolt Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Stoneworm Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_STONEWORM",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Earthworm Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Stoneworm Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_STONEWORM",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Fungloom Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Stoneworm Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_STONEWORM",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -20277,16 +20244,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Minotaur Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MINOTAUR",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Hivethief Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIVETHIEF",
@@ -21047,16 +21004,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Snoozle Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SNOOZLE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Thunder Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_THUNDER",
@@ -21603,16 +21550,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Rockmite Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ROCKMITE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {
@@ -22523,16 +22460,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Chuckwalla Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CHUCKWALLA",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {
@@ -23193,16 +23120,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Billygoat Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BILLYGOAT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

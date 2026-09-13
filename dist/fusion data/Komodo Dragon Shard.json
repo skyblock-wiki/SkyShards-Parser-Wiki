@@ -9158,28 +9158,6 @@
       "left_name": "Komodo Dragon Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_KOMODO_DRAGON",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Wyvern Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Komodo Dragon Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_KOMODO_DRAGON",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Terra Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Komodo Dragon Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_KOMODO_DRAGON",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -9841,16 +9819,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Iguana Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_IGUANA",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {

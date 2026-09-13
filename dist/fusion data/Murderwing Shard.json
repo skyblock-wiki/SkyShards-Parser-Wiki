@@ -8916,17 +8916,6 @@
       "left_name": "Murderwing Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MURDERWING",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Terra Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Murderwing Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MURDERWING",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -9935,16 +9924,6 @@
       "left_name": "Phanpyre Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_PHANPYRE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Phanpyre Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PHANPYRE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10908,16 +10887,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Phanflare Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PHANFLARE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {
@@ -11895,16 +11864,6 @@
       "left_name": "Solsnatcher Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOLSNATCHER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Solsnatcher Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOLSNATCHER",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -12868,16 +12827,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Dreadwing Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_DREADWING",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {

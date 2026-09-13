@@ -9334,39 +9334,6 @@
       "left_name": "Abyssal Miner Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ABYSSAL_MINER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Cryo Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Abyssal Miner Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ABYSSAL_MINER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Earthworm Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Abyssal Miner Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ABYSSAL_MINER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Fungloom Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Abyssal Miner Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ABYSSAL_MINER",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -13908,16 +13875,6 @@
       "left_name": "Cryo Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CRYO",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Cryo Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CRYO",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -14531,16 +14488,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Leviathan Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_LEVIATHAN",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

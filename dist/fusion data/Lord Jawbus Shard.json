@@ -8927,17 +8927,6 @@
       "left_name": "Lord Jawbus Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_LORD_JAWBUS",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Titanoboa Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Lord Jawbus Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LORD_JAWBUS",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -16833,16 +16822,6 @@
       "left_name": "Taurus Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_TAURUS",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Taurus Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_TAURUS",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -17023,16 +17002,6 @@
       "left_name": "Moltenfish Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MOLTENFISH",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Moltenfish Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MOLTENFISH",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -17176,16 +17145,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Shinyfish Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SHINYFISH",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

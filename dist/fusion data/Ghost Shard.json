@@ -9906,39 +9906,6 @@
       "left_name": "Ghost Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GHOST",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Aero Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Ghost Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GHOST",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Fungloom Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Ghost Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GHOST",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Sphinx Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Ghost Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GHOST",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -14754,16 +14721,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Barbarian Duke X Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BARBARIAN_DUKE_X",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Caiman Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CAIMAN",
@@ -15130,16 +15087,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Caiman Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CAIMAN",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

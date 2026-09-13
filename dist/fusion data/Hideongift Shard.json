@@ -8729,17 +8729,6 @@
       "left_name": "Hideongift Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONGIFT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Grove Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideongift Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONGIFT",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -12768,16 +12757,6 @@
       "left_name": "Hideonleaf Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONLEAF",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonleaf Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONLEAF",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -18088,16 +18067,6 @@
       "left_name": "Hideonsun Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONSUN",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonsun Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONSUN",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -22041,16 +22010,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideoncave Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONCAVE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {
@@ -30138,16 +30097,6 @@
       "left_name": "Hideonring Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONRING",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonring Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONRING",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -32681,16 +32630,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonbox Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONBOX",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {

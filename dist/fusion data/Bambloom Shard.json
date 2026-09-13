@@ -9642,28 +9642,6 @@
       "left_name": "Bambloom Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BAMBLOOM",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Pandarai Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bambloom Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAMBLOOM",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Sylvan Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bambloom Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAMBLOOM",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -13285,16 +13263,6 @@
       "left_name": "Bambuleaf Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BAMBULEAF",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bambuleaf Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BAMBULEAF",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -15835,16 +15803,6 @@
       "left_name": "Mochibear Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MOCHIBEAR",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Mochibear Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_MOCHIBEAR",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -18855,16 +18813,6 @@
       "left_name": "Red Panda Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RED_PANDA",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Red Panda Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_RED_PANDA",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -21725,16 +21673,6 @@
       "left_name": "Fluffling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FLUFFLING",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Fluffling Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_FLUFFLING",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -22828,16 +22766,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Pandarai Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_PANDARAI",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {

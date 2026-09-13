@@ -8542,17 +8542,6 @@
       "left_name": "Bloodbat Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BLOODBAT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Bramble Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Bloodbat Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_BLOODBAT",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",

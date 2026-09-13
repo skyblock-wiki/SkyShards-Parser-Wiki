@@ -10467,39 +10467,6 @@
       "left_name": "Hideonbox Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONBOX",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Hideonsack Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonbox Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONBOX",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Hideonring Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonbox Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONBOX",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Hideongift Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonbox Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONBOX",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11004,16 +10971,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Hideonsack Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_HIDEONSACK",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 2
     },
     {

@@ -8954,17 +8954,6 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Kraken Shard",
       "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "End Stone Protector Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_ENDSTONE_PROTECTOR",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Kraken Shard",
-      "output_count": 1
     }
   ],
   "output_recipes": [
@@ -14109,16 +14098,6 @@
       "output_count": 1
     },
     {
-      "fusion_type": "ID",
-      "left_name": "Tempest Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TEMPEST",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
       "fusion_type": "Chameleon",
       "left_name": "Chameleon Shard",
       "left_count": 1,
@@ -14366,16 +14345,6 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tiamat Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TIAMAT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     }
   ]

@@ -8861,28 +8861,6 @@
       "left_name": "Chuckwalla Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CHUCKWALLA",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Bolt Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Chuckwalla Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CHUCKWALLA",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Stoneworm Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Chuckwalla Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_CHUCKWALLA",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",

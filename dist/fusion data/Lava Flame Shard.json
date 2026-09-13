@@ -8454,28 +8454,6 @@
       "left_name": "Lava Flame Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_LAVA_FLAME",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Cascade Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Lava Flame Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LAVA_FLAME",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Inferno Koi Shard",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Lava Flame Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_LAVA_FLAME",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10997,16 +10975,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Eel Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_EEL",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {

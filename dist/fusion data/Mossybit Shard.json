@@ -9125,39 +9125,6 @@
       "left_name": "Mossybit Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_MOSSYBIT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Toad Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Mossybit Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_MOSSYBIT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Bullfrog Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Mossybit Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_MOSSYBIT",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_name": "Tide Shard",
-      "output_count": 2
-    },
-    {
-      "fusion_type": "Special",
-      "left_name": "Mossybit Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_MOSSYBIT",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -13069,16 +13036,6 @@
       "left_name": "Tide Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_TIDE",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Tide Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_TIDE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -14739,16 +14696,6 @@
       "left_name": "Goldfin Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_GOLDFIN",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Goldfin Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_GOLDFIN",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -16372,16 +16319,6 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Salamander Shard",
-      "left_count": 2,
-      "left_skyblock_id": "SHARD_SALAMANDER",
-      "right_name": "Rainbug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RAINBUG",
       "output_count": 1
     },
     {
