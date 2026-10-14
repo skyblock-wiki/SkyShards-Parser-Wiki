@@ -2979,7 +2979,7 @@
       "right_name": "Woodlouse Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODLOUSE",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3045,7 +3045,7 @@
       "right_name": "Red Panda Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RED_PANDA",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3068,6 +3068,39 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
       "output_name": "Shrieky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Flaming Spider Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FLAMING_SPIDER",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Troglobyte Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Flaming Spider Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FLAMING_SPIDER",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Zealot Bruiser Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Flaming Spider Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FLAMING_SPIDER",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Rat Shard",
       "output_count": 1
     },
     {
@@ -4004,6 +4037,17 @@
       "right_skyblock_id": "SHARD_REVENANT",
       "output_name": "Skeletor Shard",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Flaming Spider Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FLAMING_SPIDER",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Quake Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "Special",
@@ -8597,6 +8641,28 @@
       "left_name": "Flaming Spider Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FLAMING_SPIDER",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Quake Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Flaming Spider Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FLAMING_SPIDER",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Zealot Bruiser Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Flaming Spider Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FLAMING_SPIDER",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -9652,6 +9718,16 @@
       "left_name": "Soul of the Alpha Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Soul of the Alpha Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
       "right_name": "Queen Ant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUEEN_ANT",
@@ -10192,226 +10268,6 @@
       "left_name": "Soul of the Alpha Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Terra Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TERRA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Cryo Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_CRYO",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Leviathan Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_LEVIATHAN",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Iguana Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_IGUANA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Moray Eel Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_MORAY_EEL",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Lunar Moth Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LUNAR_MOTH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Fire Eel Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_FIRE_EEL",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Water Hydra Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WATER_HYDRA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Murderwing Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MURDERWING",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Loch Emperor Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SEA_EMPEROR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Komodo Dragon Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_KOMODO_DRAGON",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Blue Crab Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BLUE_CRAB",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Wolverine Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WOLVERINE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Shellwise Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SHELLWISE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Firefly Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_FIREFLY",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Sea Serpent Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_SEA_SERPENT",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "XYZ Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_XYZ",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Leatherback Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_LEATHERBACK",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Dragonfly Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DRAGONFLY",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Dive Ghast Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_DIVE_GHAST",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Silkbreeze Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SILKBREEZE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Rabbit Godmother Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_GODMOTHER",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
       "right_name": "Giant Isopod Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GIANT_ISOPOD",
@@ -10422,49 +10278,9 @@
       "left_name": "Soul of the Alpha Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Queen Bee Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_QUEEN_BEE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Beeheemoth Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_BEEHEEMOTH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
       "right_name": "Mountain Goat Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_MOUNTAIN_GOAT",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Tenebris Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TENEBRIS",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Blizzard Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_BLIZZARD",
       "output_count": 1
     },
     {
@@ -10482,189 +10298,9 @@
       "left_name": "Soul of the Alpha Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Nessie Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_NESSIE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Wyvern Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_WYVERN",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Tortoise Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_TORTOISE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Rabbit Godfather Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_RABBIT_GODFATHER",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Naga Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_NAGA",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Wartybug Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_WARTYBUG",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Spike Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SPIKE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Taurus Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_TAURUS",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Moltenfish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_MOLTENFISH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Shinyfish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SHINYFISH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Lord Jawbus Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_LORD_JAWBUS",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Cinderbat Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_CINDER_BAT",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Megalith Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_MEGALITH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Sun Fish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_SUN_FISH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Queen Snake Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_QUEEN_SNAKE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Ghost Crab Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GHOST_CRAB",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
       "right_name": "Grizzly Bear Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GRIZZLY_BEAR",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Galaxy Fish Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GALAXY_FISH",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Starborn Shard",
-      "right_count": 2,
-      "right_skyblock_id": "SHARD_STARBORN",
       "output_count": 1
     },
     {
@@ -10685,6 +10321,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Soul of the Alpha Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 1
     },
     {

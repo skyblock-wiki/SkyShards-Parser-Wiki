@@ -2462,7 +2462,7 @@
       "right_name": "Black Widow Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BLACK_WIDOW",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -2552,6 +2552,39 @@
       "right_skyblock_id": "SHARD_BLACK_WIDOW",
       "output_name": "Quake Shard",
       "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Black Widow Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLACK_WIDOW",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Black Widow Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLACK_WIDOW",
+      "output_name": "Troglobyte Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Black Widow Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BLACK_WIDOW",
+      "output_name": "Rat Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -5982,6 +6015,17 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_name": "Bolt Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Black Widow Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BLACK_WIDOW",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_name": "Bolt Shard",
       "output_count": 2
     },

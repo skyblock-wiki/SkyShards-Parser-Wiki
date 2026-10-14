@@ -2499,15 +2499,15 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
+      "fusion_type": "Special",
       "left_name": "Soul of the Alpha Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
       "right_name": "Iguana Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_IGUANA",
-      "output_name": "XYZ Shard",
-      "output_count": 1
+      "output_name": "Folf Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "ID",
@@ -2517,7 +2517,7 @@
       "right_name": "Iguana Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_IGUANA",
-      "output_name": "Flaming Spider Shard",
+      "output_name": "XYZ Shard",
       "output_count": 1
     },
     {
@@ -3699,6 +3699,39 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Iguana Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_IGUANA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Iguana Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_IGUANA",
+      "output_name": "Fungloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Iguana Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_IGUANA",
+      "output_name": "XYZ Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Shrieky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -4740,6 +4773,28 @@
       "right_count": 2,
       "right_skyblock_id": "SHARD_IGUANA",
       "output_name": "Skeletor Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Iguana Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_IGUANA",
+      "output_name": "Bolt Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Iguana Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_IGUANA",
+      "output_name": "XYZ Shard",
       "output_count": 1
     },
     {
@@ -9367,6 +9422,28 @@
       "left_name": "Iguana Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_IGUANA",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Terra Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Iguana Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_IGUANA",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Komodo Dragon Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Iguana Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_IGUANA",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10028,6 +10105,16 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Gecko Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_GECKO",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {

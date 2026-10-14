@@ -2488,15 +2488,15 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
+      "fusion_type": "Special",
       "left_name": "Soul of the Alpha Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
       "right_name": "Dive Ghast Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DIVE_GHAST",
-      "output_name": "Mountain Goat Shard",
-      "output_count": 1
+      "output_name": "Folf Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "ID",
@@ -2506,7 +2506,7 @@
       "right_name": "Dive Ghast Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DIVE_GHAST",
-      "output_name": "Flaming Spider Shard",
+      "output_name": "Mountain Goat Shard",
       "output_count": 1
     },
     {
@@ -3688,6 +3688,39 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Dive Ghast Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DIVE_GHAST",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Dive Ghast Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DIVE_GHAST",
+      "output_name": "Fungloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Dive Ghast Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DIVE_GHAST",
+      "output_name": "Mountain Goat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Shrieky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -4674,6 +4707,28 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_DIVE_GHAST",
       "output_name": "Skeletor Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Dive Ghast Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DIVE_GHAST",
+      "output_name": "Bolt Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Dive Ghast Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DIVE_GHAST",
+      "output_name": "Mountain Goat Shard",
       "output_count": 1
     },
     {
@@ -8938,6 +8993,17 @@
       "left_name": "Dive Ghast Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_DIVE_GHAST",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Terra Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Dive Ghast Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_DIVE_GHAST",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10993,6 +11059,26 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "XYZ Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_XYZ",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Dragonfly Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRAGONFLY",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Shrieky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -11606,6 +11692,26 @@
       "left_name": "Revenant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_REVENANT",
+      "right_name": "Dragonfly Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DRAGONFLY",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "XYZ Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_XYZ",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
       "right_name": "Dragonfly Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DRAGONFLY",

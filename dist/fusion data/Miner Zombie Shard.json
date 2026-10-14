@@ -3419,7 +3419,7 @@
       "right_name": "Woodlouse Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODLOUSE",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3507,7 +3507,7 @@
       "right_name": "Red Panda Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RED_PANDA",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3574,6 +3574,39 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
       "output_name": "Shrieky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Miner Zombie Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MINER_ZOMBIE",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Troglobyte Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Miner Zombie Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MINER_ZOMBIE",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Flash Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Miner Zombie Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MINER_ZOMBIE",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Rat Shard",
       "output_count": 1
     },
     {
@@ -4741,6 +4774,28 @@
       "right_skyblock_id": "SHARD_REVENANT",
       "output_name": "Skeletor Shard",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Miner Zombie Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MINER_ZOMBIE",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Troglobyte Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Miner Zombie Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MINER_ZOMBIE",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Flash Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "Special",
@@ -9851,6 +9906,39 @@
       "left_name": "Miner Zombie Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MINER_ZOMBIE",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Flash Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Miner Zombie Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MINER_ZOMBIE",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Fungloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Miner Zombie Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MINER_ZOMBIE",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Cretan Bull Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Miner Zombie Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MINER_ZOMBIE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11802,6 +11890,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Yog Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_YOG",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 1
     },
     {

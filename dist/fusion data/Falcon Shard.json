@@ -4051,6 +4051,39 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Falcon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FALCON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Falcon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FALCON",
+      "output_name": "Kiwi Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Falcon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FALCON",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Shrieky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -5231,6 +5264,39 @@
       "left_name": "Revenant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_REVENANT",
+      "right_name": "Falcon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FALCON",
+      "output_name": "Boreal Owl Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Falcon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FALCON",
+      "output_name": "Kiwi Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Falcon Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FALCON",
+      "output_name": "Harpy Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
       "right_name": "Falcon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_FALCON",
@@ -10478,6 +10544,39 @@
       "left_name": "Falcon Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FALCON",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Condor Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Falcon Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FALCON",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Toucan Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Falcon Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FALCON",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Sylvan Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Falcon Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FALCON",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10809,6 +10908,16 @@
       "left_name": "Crow Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_CROW",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Crow Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CROW",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -12352,6 +12461,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Crow Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CROW",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -12619,6 +12738,16 @@
       "left_name": "Harpy Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HARPY",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Harpy Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HARPY",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -14162,6 +14291,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Harpy Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HARPY",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -14429,6 +14568,16 @@
       "left_name": "Boreal Owl Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BOREAL_OWL",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Boreal Owl Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BOREAL_OWL",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -15972,6 +16121,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Boreal Owl Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BOREAL_OWL",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -16239,6 +16398,16 @@
       "left_name": "Blue Jay Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BLUE_JAY",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Blue Jay Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BLUE_JAY",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -17782,6 +17951,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Blue Jay Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BLUE_JAY",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -18049,6 +18228,16 @@
       "left_name": "Sparrow Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SPARROW",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Sparrow Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SPARROW",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -19592,6 +19781,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Sparrow Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SPARROW",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -19859,6 +20058,16 @@
       "left_name": "Heron Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HERON",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Heron Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HERON",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -21402,6 +21611,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Heron Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HERON",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -21669,6 +21888,16 @@
       "left_name": "Seagull Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SEAGULL",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Seagull Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SEAGULL",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -23212,6 +23441,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Seagull Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SEAGULL",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -23479,6 +23718,16 @@
       "left_name": "Kiwi Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_KIWI",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Kiwi Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_KIWI",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -25022,6 +25271,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Kiwi Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_KIWI",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -25289,6 +25548,16 @@
       "left_name": "Bluebird Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BLUEBIRD",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bluebird Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BLUEBIRD",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -26832,6 +27101,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bluebird Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BLUEBIRD",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -27099,6 +27378,16 @@
       "left_name": "Woodpecker Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WOODPECKER",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Woodpecker Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_WOODPECKER",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -28642,6 +28931,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Woodpecker Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_WOODPECKER",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -28909,6 +29208,16 @@
       "left_name": "Hawk Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HAWK",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hawk Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HAWK",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -30452,6 +30761,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hawk Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HAWK",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -31712,6 +32031,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Vulture Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_VULTURE",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 2
     },
     {
@@ -33269,6 +33598,76 @@
       "left_name": "Revenant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_REVENANT",
+      "right_name": "Dodo Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DODO",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Hummingbird Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_HUMMINGBIRD",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Parakeet Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PARAKEET",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Toucan Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_TOUCAN",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Macaw Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MACAW",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Ananke Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ANANKE",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Condor Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_CONDOR",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
       "right_name": "Dodo Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DODO",
@@ -40159,6 +40558,16 @@
       "left_name": "Toucan Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_TOUCAN",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Toucan Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_TOUCAN",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -41949,6 +42358,16 @@
       "left_name": "Macaw Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MACAW",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Macaw Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MACAW",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -42199,6 +42618,16 @@
       "left_name": "Ananke Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ANANKE",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Ananke Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_ANANKE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -42449,6 +42878,16 @@
       "left_name": "Condor Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_CONDOR",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Condor Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CONDOR",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -42602,6 +43041,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Dodo Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_DODO",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {

@@ -3419,7 +3419,7 @@
       "right_name": "Seashine Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_SHINE",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3563,6 +3563,39 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_SHINE",
       "output_name": "Shrieky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Seashine Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_SHINE",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Seashine Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_SHINE",
+      "output_name": "Snowfin Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Seashine Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_SHINE",
+      "output_name": "Rat Shard",
       "output_count": 1
     },
     {
@@ -4461,6 +4494,17 @@
       "left_name": "Revenant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_REVENANT",
+      "right_name": "Seashine Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SEA_SHINE",
+      "output_name": "Snowfin Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
       "right_name": "Seashine Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SEA_SHINE",
@@ -8443,6 +8487,28 @@
       "left_name": "Seashine Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SEA_SHINE",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Cascade Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Seashine Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SEA_SHINE",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Snowfin Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Seashine Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SEA_SHINE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -9598,6 +9664,16 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Silentdepth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SILENTDEPTH",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Shrieky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -9901,6 +9977,16 @@
       "left_name": "Revenant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_REVENANT",
+      "right_name": "Silentdepth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_SILENTDEPTH",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -10834,6 +10920,16 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Silentdepth Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SILENTDEPTH",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 1
     },
     {

@@ -2657,6 +2657,17 @@
       "left_name": "Mosquito Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MOSQUITO",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Mosquito Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MOSQUITO",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -6441,6 +6452,17 @@
       "left_name": "Mosquito Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MOSQUITO",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Mosquito Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MOSQUITO",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -7633,6 +7655,16 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Moth Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_MOTH",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Shrieky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -7869,6 +7901,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Moth Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MOTH",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {

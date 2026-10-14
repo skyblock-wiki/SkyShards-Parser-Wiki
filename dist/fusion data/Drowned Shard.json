@@ -3474,7 +3474,7 @@
       "right_name": "Drowned Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DROWNED",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3603,6 +3603,39 @@
       "left_name": "Sneaky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Drowned Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DROWNED",
+      "output_name": "Star Sentry Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Drowned Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DROWNED",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Drowned Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_DROWNED",
+      "output_name": "Troglobyte Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
       "right_name": "Drowned Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_DROWNED",
@@ -8531,6 +8564,28 @@
       "left_name": "Drowned Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_DROWNED",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Bolt Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Drowned Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_DROWNED",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Star Sentry Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Drowned Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_DROWNED",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11823,6 +11878,36 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Glacite Walker Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GLACITE_WALKER",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Python Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_PYTHON",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Lapis Skeleton Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAPIS_SKELETON",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Shrieky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -13303,6 +13388,16 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Glacite Walker Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_GLACITE_WALKER",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Beaconmite Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BEACONMITE",
@@ -14299,6 +14394,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Python Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_PYTHON",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 1
     },
     {

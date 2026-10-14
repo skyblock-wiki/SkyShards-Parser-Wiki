@@ -3782,7 +3782,7 @@
       "right_name": "Red Panda Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RED_PANDA",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3850,6 +3850,39 @@
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
       "output_name": "Shrieky Tiki Shard",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSUN",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Hideoncave Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSUN",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSUN",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "Special",
@@ -5026,6 +5059,39 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
       "output_name": "Skeletor Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSUN",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSUN",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Hideonsun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSUN",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Firefox Shard",
       "output_count": 1
     },
     {
@@ -10247,6 +10313,28 @@
       "left_name": "Hideonsun Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONSUN",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSUN",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Hideongift Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Hideonsun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSUN",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11381,6 +11469,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Ant Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_ANT",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {

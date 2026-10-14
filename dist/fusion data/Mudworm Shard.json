@@ -2869,7 +2869,7 @@
       "right_name": "Woodlouse Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODLOUSE",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -2957,7 +2957,7 @@
       "right_name": "Red Panda Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RED_PANDA",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3013,6 +3013,28 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
       "output_name": "Locust Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Mudworm Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MUDWORM",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Mudworm Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MUDWORM",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Rat Shard",
       "output_count": 1
     },
     {
@@ -4002,6 +4024,28 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_name": "Locust Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Mudworm Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MUDWORM",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Mudworm Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MUDWORM",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_name": "Locust Shard",
       "output_count": 1
     },
@@ -8641,6 +8685,17 @@
       "left_name": "Mudworm Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MUDWORM",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Mudworm Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_MUDWORM",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10002,6 +10057,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Fly Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FLY",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {
@@ -11762,6 +11827,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Hideongift Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONGIFT",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {
@@ -13572,6 +13647,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Rabbit Mafioso Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_RABBIT_MAFIOSO",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {

@@ -2488,6 +2488,17 @@
       "output_count": 2
     },
     {
+      "fusion_type": "Special",
+      "left_name": "Soul of the Alpha Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
+      "right_name": "Inferno Demonlord Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BURNINGSOUL",
+      "output_name": "Folf Shard",
+      "output_count": 2
+    },
+    {
       "fusion_type": "ID",
       "left_name": "Soul of the Alpha Shard",
       "left_count": 5,
@@ -3474,7 +3485,7 @@
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3603,6 +3614,39 @@
       "left_name": "Sneaky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Inferno Demonlord Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BURNINGSOUL",
+      "output_name": "Scatha Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Inferno Demonlord Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BURNINGSOUL",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Inferno Demonlord Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BURNINGSOUL",
+      "output_name": "Troglobyte Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -4648,6 +4692,28 @@
       "left_name": "Revenant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_REVENANT",
+      "right_name": "Inferno Demonlord Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BURNINGSOUL",
+      "output_name": "Scatha Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Inferno Demonlord Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BURNINGSOUL",
+      "output_name": "Bolt Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
       "right_name": "Inferno Demonlord Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BURNINGSOUL",
@@ -8784,6 +8850,28 @@
       "left_name": "Inferno Demonlord Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BURNINGSOUL",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Aero Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Inferno Demonlord Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BURNINGSOUL",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Scatha Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Inferno Demonlord Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BURNINGSOUL",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10236,16 +10324,6 @@
     },
     {
       "fusion_type": "ID",
-      "left_name": "Soul of the Alpha Shard",
-      "left_count": 5,
-      "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
-      "right_name": "Gemzie Shard",
-      "right_count": 5,
-      "right_skyblock_id": "SHARD_GEMZIE",
-      "output_count": 1
-    },
-    {
-      "fusion_type": "ID",
       "left_name": "Magma Slug Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MAGMA_SLUG",
@@ -10919,6 +10997,26 @@
       "left_name": "Sneaky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Gemzie Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GEMZIE",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "King Minos Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KING_MINOS",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
       "right_name": "Gemzie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GEMZIE",
@@ -11519,6 +11617,26 @@
       "left_name": "Revenant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_REVENANT",
+      "right_name": "Gemzie Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_GEMZIE",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "King Minos Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_KING_MINOS",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
       "right_name": "Gemzie Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_GEMZIE",
@@ -13516,6 +13634,16 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "King Minos Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_KING_MINOS",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Dive Ghast Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_DIVE_GHAST",
@@ -13772,6 +13900,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Gemzie Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_GEMZIE",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 1
     },
     {

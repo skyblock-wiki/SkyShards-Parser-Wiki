@@ -2422,15 +2422,15 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
+      "fusion_type": "Special",
       "left_name": "Soul of the Alpha Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
       "right_name": "Cryo Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CRYO",
-      "output_name": "Abyssal Miner Shard",
-      "output_count": 1
+      "output_name": "Folf Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "ID",
@@ -2440,7 +2440,7 @@
       "right_name": "Cryo Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CRYO",
-      "output_name": "Flaming Spider Shard",
+      "output_name": "Abyssal Miner Shard",
       "output_count": 1
     },
     {
@@ -3419,7 +3419,7 @@
       "right_name": "Cryo Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CRYO",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3563,6 +3563,39 @@
       "right_count": 2,
       "right_skyblock_id": "SHARD_CRYO",
       "output_name": "Shrieky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Cryo Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CRYO",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Cryo Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CRYO",
+      "output_name": "Abyssal Miner Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Cryo Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CRYO",
+      "output_name": "Rat Shard",
       "output_count": 1
     },
     {
@@ -4630,6 +4663,28 @@
       "right_count": 2,
       "right_skyblock_id": "SHARD_CRYO",
       "output_name": "Skeletor Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Cryo Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CRYO",
+      "output_name": "Bolt Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Cryo Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CRYO",
+      "output_name": "Abyssal Miner Shard",
       "output_count": 1
     },
     {
@@ -8674,6 +8729,28 @@
       "left_name": "Cryo Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CRYO",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Tenebris Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Cryo Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_CRYO",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Abyssal Miner Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Cryo Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_CRYO",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -9202,6 +9279,16 @@
       "left_name": "Leviathan Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_LEVIATHAN",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Leviathan Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_LEVIATHAN",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -9652,6 +9739,16 @@
       "left_name": "Abyssal Miner Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_ABYSSAL_MINER",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Abyssal Miner Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_ABYSSAL_MINER",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10102,6 +10199,16 @@
       "left_name": "Moray Eel Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_MORAY_EEL",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Moray Eel Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_MORAY_EEL",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10552,6 +10659,16 @@
       "left_name": "Fire Eel Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_FIRE_EEL",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Fire Eel Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_FIRE_EEL",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11002,6 +11119,16 @@
       "left_name": "Water Hydra Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_WATER_HYDRA",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Water Hydra Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_WATER_HYDRA",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11452,6 +11579,16 @@
       "left_name": "Loch Emperor Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SEA_EMPEROR",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Loch Emperor Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SEA_EMPEROR",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -11902,6 +12039,16 @@
       "left_name": "Blue Crab Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BLUE_CRAB",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Blue Crab Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BLUE_CRAB",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -12352,6 +12499,16 @@
       "left_name": "Shellwise Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_SHELLWISE",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Shellwise Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_SHELLWISE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -12802,6 +12959,16 @@
       "left_name": "Sea Serpent Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_SEA_SERPENT",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Sea Serpent Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_SEA_SERPENT",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -13252,6 +13419,16 @@
       "left_name": "Leatherback Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_LEATHERBACK",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Leatherback Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_LEATHERBACK",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -13702,6 +13879,16 @@
       "left_name": "Silkbreeze Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SILKBREEZE",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Silkbreeze Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SILKBREEZE",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -14145,6 +14332,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Giant Isopod Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_GIANT_ISOPOD",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {

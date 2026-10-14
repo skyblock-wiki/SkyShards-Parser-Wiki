@@ -2488,15 +2488,15 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
+      "fusion_type": "Special",
       "left_name": "Soul of the Alpha Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
       "right_name": "Tenebris Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TENEBRIS",
-      "output_name": "Cinderbat Shard",
-      "output_count": 1
+      "output_name": "Folf Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "ID",
@@ -2506,7 +2506,7 @@
       "right_name": "Tenebris Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TENEBRIS",
-      "output_name": "Flaming Spider Shard",
+      "output_name": "Cinderbat Shard",
       "output_count": 1
     },
     {
@@ -3688,6 +3688,39 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_name": "Fungloom Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_name": "Cinderbat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Shrieky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -4674,6 +4707,28 @@
       "right_count": 2,
       "right_skyblock_id": "SHARD_TENEBRIS",
       "output_name": "Skeletor Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_name": "Bolt Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Tenebris Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_TENEBRIS",
+      "output_name": "Cinderbat Shard",
       "output_count": 1
     },
     {
@@ -9444,6 +9499,16 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Terra Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_TERRA",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Cryo Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_CRYO",
@@ -9544,6 +9609,16 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Cryo Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_CRYO",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Aero Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_AERO",
@@ -9640,6 +9715,16 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Aero Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_AERO",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     },
     {
@@ -9924,6 +10009,16 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Blizzard Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_BLIZZARD",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Tempest Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_TEMPEST",
@@ -10024,6 +10119,16 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Tempest Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_TEMPEST",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Wyvern Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_WYVERN",
@@ -10154,6 +10259,16 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Doomspiral Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_DOOMSPIRAL",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Macaw Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_MACAW",
@@ -10220,6 +10335,16 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Starborn Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_STARBORN",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 2
     }
   ]

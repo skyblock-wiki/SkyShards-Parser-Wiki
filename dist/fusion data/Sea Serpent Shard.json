@@ -2422,15 +2422,15 @@
       "output_count": 2
     },
     {
-      "fusion_type": "ID",
+      "fusion_type": "Special",
       "left_name": "Soul of the Alpha Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SOUL_OF_THE_ALPHA",
       "right_name": "Sea Serpent Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEA_SERPENT",
-      "output_name": "Silkbreeze Shard",
-      "output_count": 1
+      "output_name": "Folf Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "ID",
@@ -2440,7 +2440,7 @@
       "right_name": "Sea Serpent Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEA_SERPENT",
-      "output_name": "Flaming Spider Shard",
+      "output_name": "Silkbreeze Shard",
       "output_count": 1
     },
     {
@@ -3419,7 +3419,7 @@
       "right_name": "Sea Serpent Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEA_SERPENT",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3563,6 +3563,39 @@
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEA_SERPENT",
       "output_name": "Shrieky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Sea Serpent Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SEA_SERPENT",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Sea Serpent Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SEA_SERPENT",
+      "output_name": "Silkbreeze Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Sea Serpent Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SEA_SERPENT",
+      "output_name": "Rat Shard",
       "output_count": 1
     },
     {
@@ -4630,6 +4663,28 @@
       "right_count": 2,
       "right_skyblock_id": "SHARD_SEA_SERPENT",
       "output_name": "Skeletor Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Sea Serpent Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SEA_SERPENT",
+      "output_name": "Bolt Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
+      "right_name": "Sea Serpent Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_SEA_SERPENT",
+      "output_name": "Silkbreeze Shard",
       "output_count": 1
     },
     {
@@ -8976,6 +9031,28 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Cryo Shard",
       "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Sea Serpent Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_SEA_SERPENT",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Cryo Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Sea Serpent Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_SEA_SERPENT",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Silkbreeze Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",

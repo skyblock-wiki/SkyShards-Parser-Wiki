@@ -2957,7 +2957,7 @@
       "right_name": "Sneaky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
-      "output_name": "Shrieky Tiki Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -2968,7 +2968,7 @@
       "right_name": "Sneaky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
-      "output_name": "Rat Shard",
+      "output_name": "Shrieky Tiki Shard",
       "output_count": 1
     },
     {
@@ -3023,7 +3023,7 @@
       "right_name": "Sneaky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
-      "output_name": "Shrieky Tiki Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3034,7 +3034,7 @@
       "right_name": "Sneaky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
-      "output_name": "Rat Shard",
+      "output_name": "Shrieky Tiki Shard",
       "output_count": 1
     },
     {
@@ -3057,6 +3057,39 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
       "output_name": "Shrieky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Sneaky Tiki Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Troglobyte Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Sneaky Tiki Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Shrieky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Sneaky Tiki Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Rat Shard",
       "output_count": 1
     },
     {
@@ -3993,6 +4026,17 @@
       "right_skyblock_id": "SHARD_REVENANT",
       "output_name": "Skeletor Shard",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Sneaky Tiki Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Quake Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "Special",
@@ -7511,7 +7555,7 @@
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_name": "Sylvan Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -7522,7 +7566,7 @@
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_name": "Cascade Shard",
+      "output_name": "Sylvan Shard",
       "output_count": 1
     },
     {
@@ -8578,6 +8622,28 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_name": "Shrieky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Sneaky Tiki Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Quake Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Sneaky Tiki Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_name": "Shrieky Tiki Shard",
       "output_count": 1
     },
@@ -9741,6 +9807,16 @@
       "left_name": "Cheeky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_CHEEKY_TIKI",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Cheeky Tiki Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHEEKY_TIKI",
       "right_name": "Queen Ant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_QUEEN_ANT",
@@ -10764,6 +10840,16 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Cheeky Tiki Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CHEEKY_TIKI",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 1
     },
     {

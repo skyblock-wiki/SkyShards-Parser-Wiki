@@ -3732,6 +3732,28 @@
     },
     {
       "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Bitbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BITBUG",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Bitbug Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_BITBUG",
+      "output_name": "Thyst Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
       "left_name": "Shrieky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -4651,6 +4673,17 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_name": "Thyst Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Bitbug Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BITBUG",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_name": "Thyst Shard",
       "output_count": 1
     },
@@ -7698,7 +7731,7 @@
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_name": "Terra Shard",
+      "output_name": "Folf Shard",
       "output_count": 1
     },
     {
@@ -8822,6 +8855,17 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Thyst Shard",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bitbug Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BITBUG",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Sylvan Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "Special",

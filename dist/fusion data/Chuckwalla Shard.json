@@ -3485,7 +3485,7 @@
       "right_name": "Chuckwalla Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CHUCKWALLA",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3625,6 +3625,39 @@
       "left_name": "Sneaky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Chuckwalla Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CHUCKWALLA",
+      "output_name": "Stoneworm Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Chuckwalla Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CHUCKWALLA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Chuckwalla Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CHUCKWALLA",
+      "output_name": "Troglobyte Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
       "right_name": "Chuckwalla Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CHUCKWALLA",
@@ -4560,6 +4593,17 @@
       "left_name": "Revenant Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_REVENANT",
+      "right_name": "Chuckwalla Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_CHUCKWALLA",
+      "output_name": "Stoneworm Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Folf Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOLF",
       "right_name": "Chuckwalla Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_CHUCKWALLA",
@@ -8855,6 +8899,28 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Lizard King Shard",
       "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Chuckwalla Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_CHUCKWALLA",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Bolt Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Chuckwalla Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_CHUCKWALLA",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Stoneworm Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",

@@ -2880,7 +2880,7 @@
       "right_name": "Woodlouse Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODLOUSE",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -2968,7 +2968,7 @@
       "right_name": "Red Panda Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RED_PANDA",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3024,6 +3024,28 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
       "output_name": "Groundhog Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Firefox Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FIREFOX",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Firefox Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FIREFOX",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Rat Shard",
       "output_count": 1
     },
     {
@@ -4013,6 +4035,28 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_name": "Groundhog Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Firefox Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FIREFOX",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Firefox Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FIREFOX",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_name": "Groundhog Shard",
       "output_count": 1
     },
@@ -8652,6 +8696,17 @@
       "left_name": "Firefox Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_FIREFOX",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Firefox Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FIREFOX",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10000,6 +10055,16 @@
       "left_name": "Hideonsun Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HIDEONSUN",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Hideonsun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HIDEONSUN",
       "right_name": "Zombuddy Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_ZOMBUDDY",
@@ -10473,6 +10538,16 @@
       "right_name": "Lava Leech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAVA_LEECH",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Shyworm Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_SHYWORM",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {
@@ -11743,6 +11818,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Foxtrot Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_FOXTROT",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {

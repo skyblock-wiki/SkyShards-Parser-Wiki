@@ -2891,7 +2891,7 @@
       "right_name": "Woodlouse Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODLOUSE",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -2979,7 +2979,7 @@
       "right_name": "Red Panda Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RED_PANDA",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3035,6 +3035,28 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
       "output_name": "Honeybuzz Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bunbun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BUNBUN",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Bunbun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BUNBUN",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Rat Shard",
       "output_count": 1
     },
     {
@@ -4035,6 +4057,28 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_name": "Honeybuzz Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bunbun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BUNBUN",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Grove Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Bunbun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BUNBUN",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_name": "Honeybuzz Shard",
       "output_count": 1
     },
@@ -8685,6 +8729,17 @@
       "left_name": "Bunbun Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_BUNBUN",
+      "right_name": "Cocoaleech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_name": "Chocobun Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bunbun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BUNBUN",
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
@@ -8701,6 +8756,17 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Honeybuzz Shard",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Bunbun Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_BUNBUN",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Grove Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "Special",

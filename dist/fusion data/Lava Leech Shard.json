@@ -3419,7 +3419,7 @@
       "right_name": "Lava Leech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAVA_LEECH",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3563,6 +3563,39 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_LAVA_LEECH",
       "output_name": "Shrieky Tiki Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Lava Leech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAVA_LEECH",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Lava Leech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAVA_LEECH",
+      "output_name": "Silentdepth Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Lava Leech Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_LAVA_LEECH",
+      "output_name": "Rat Shard",
       "output_count": 1
     },
     {
@@ -4465,6 +4498,17 @@
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
       "output_name": "Skeletor Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Lava Leech Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_LAVA_LEECH",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Silentdepth Shard",
       "output_count": 1
     },
     {
@@ -7401,7 +7445,7 @@
       "right_name": "Chameleon Shard",
       "right_count": 1,
       "right_skyblock_id": "SHARD_CHAMELEON",
-      "output_name": "Terra Shard",
+      "output_name": "Folf Shard",
       "output_count": 1
     },
     {
@@ -8437,6 +8481,28 @@
       "right_skyblock_id": "SHARD_TITANOBOA",
       "output_name": "Cascade Shard",
       "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Lava Leech Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_LAVA_LEECH",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Cascade Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Lava Leech Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_LAVA_LEECH",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Silentdepth Shard",
+      "output_count": 1
     },
     {
       "fusion_type": "Special",
@@ -9598,6 +9664,16 @@
     },
     {
       "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Abyssal Lanternfish Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_ABYSSAL_LANTERN",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
       "left_name": "Shrieky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -9904,6 +9980,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Abyssal Lanternfish Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_ABYSSAL_LANTERN",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {
@@ -10884,6 +10970,16 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Abyssal Lanternfish Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_ABYSSAL_LANTERN",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 1
     },
     {

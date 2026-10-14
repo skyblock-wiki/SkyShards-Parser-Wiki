@@ -2902,7 +2902,7 @@
       "right_name": "Woodlouse Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_WOODLOUSE",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -2990,7 +2990,7 @@
       "right_name": "Red Panda Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_RED_PANDA",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3045,6 +3045,39 @@
       "right_name": "Sneaky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "output_name": "Brineling Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Haggard Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HAGGARD",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Mist Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Haggard Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HAGGARD",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_name": "Rat Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Haggard Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HAGGARD",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
       "output_name": "Brineling Shard",
       "output_count": 1
     },
@@ -4134,6 +4167,28 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_name": "Brineling Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Haggard Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HAGGARD",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Mist Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Haggard Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HAGGARD",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_name": "Brineling Shard",
       "output_count": 1
     },
@@ -8674,6 +8729,28 @@
       "left_name": "Haggard Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_HAGGARD",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Mist Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Haggard Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HAGGARD",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Brineling Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Haggard Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_HAGGARD",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -10542,6 +10619,16 @@
       "left_name": "Inkling Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_NIGHT_SQUID",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Inkling Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_NIGHT_SQUID",
       "right_name": "Shrieky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -10785,6 +10872,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Inkling Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_NIGHT_SQUID",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {
@@ -11725,6 +11822,16 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Inkling Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_NIGHT_SQUID",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 1
     },
     {
@@ -12392,6 +12499,16 @@
       "left_name": "Newt Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_NEWT",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Newt Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_NEWT",
       "right_name": "Shrieky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -12635,6 +12752,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Newt Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_NEWT",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {
@@ -13575,6 +13702,16 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Newt Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_NEWT",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 1
     },
     {
@@ -14192,6 +14329,16 @@
       "left_name": "Tepid Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_TEPID",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Tepid Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_TEPID",
       "right_name": "Shrieky Tiki Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SHRIEKY_TIKI",
@@ -14435,6 +14582,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Tepid Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_TEPID",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {
@@ -15382,6 +15539,16 @@
       "left_name": "Tepid Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_TEPID",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Tepid Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_TEPID",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -15722,6 +15889,16 @@
       "left_name": "Cavernfish Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_CAVERNFISH",
+      "right_name": "Packrat Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Cavernfish Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CAVERNFISH",
       "right_name": "Honeymite Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_HONEYMITE",
@@ -15875,6 +16052,16 @@
       "right_name": "Bitbug Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_BITBUG",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Cavernfish Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CAVERNFISH",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 1
     },
     {
@@ -16175,6 +16362,16 @@
       "right_name": "Cocoaleech Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_COCOALEECH",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Cavernfish Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_CAVERNFISH",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_count": 1
     },
     {

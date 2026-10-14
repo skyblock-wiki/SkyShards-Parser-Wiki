@@ -2305,6 +2305,17 @@
       "left_name": "Rabbit Cat Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_RABBIT_CAT",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Rabbit Cat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_RABBIT_CAT",
       "right_name": "Silentdepth Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_SILENTDEPTH",
@@ -5817,6 +5828,17 @@
       "right_name": "Titanoboa Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_TITANOBOA",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Rabbit Cat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_RABBIT_CAT",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
       "output_name": "Bramble Shard",
       "output_count": 2
     },

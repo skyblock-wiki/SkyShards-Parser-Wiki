@@ -3672,7 +3672,7 @@
       "right_name": "Python Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_PYTHON",
-      "output_name": "Rat Shard",
+      "output_name": "Packrat Shard",
       "output_count": 1
     },
     {
@@ -3823,6 +3823,39 @@
       "left_name": "Sneaky Tiki Shard",
       "left_count": 5,
       "left_skyblock_id": "SHARD_SNEAKY_TIKI",
+      "right_name": "Python Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_PYTHON",
+      "output_name": "Drowned Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Python Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_PYTHON",
+      "output_name": "Bramble Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
+      "right_name": "Python Shard",
+      "right_count": 2,
+      "right_skyblock_id": "SHARD_PYTHON",
+      "output_name": "Troglobyte Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Packrat Shard",
+      "left_count": 5,
+      "left_skyblock_id": "SHARD_PACKRAT_SKULL",
       "right_name": "Python Shard",
       "right_count": 2,
       "right_skyblock_id": "SHARD_PYTHON",
@@ -4807,6 +4840,17 @@
       "right_skyblock_id": "SHARD_REVENANT",
       "output_name": "Skeletor Shard",
       "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Python Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_PYTHON",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
+      "output_name": "King Cobra Shard",
+      "output_count": 2
     },
     {
       "fusion_type": "ID",
@@ -9367,6 +9411,28 @@
       "left_name": "Python Shard",
       "left_count": 2,
       "left_skyblock_id": "SHARD_PYTHON",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Bolt Shard",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "ID",
+      "left_name": "Python Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_PYTHON",
+      "right_name": "Flora Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FLORA",
+      "output_name": "Drowned Shard",
+      "output_count": 1
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Python Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_PYTHON",
       "right_name": "Paragon Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_PARAGON",
@@ -9738,6 +9804,16 @@
       "right_name": "Revenant Shard",
       "right_count": 5,
       "right_skyblock_id": "SHARD_REVENANT",
+      "output_count": 2
+    },
+    {
+      "fusion_type": "Special",
+      "left_name": "Viper Shard",
+      "left_count": 2,
+      "left_skyblock_id": "SHARD_VIPER",
+      "right_name": "Folf Shard",
+      "right_count": 5,
+      "right_skyblock_id": "SHARD_FOLF",
       "output_count": 2
     },
     {
